@@ -1,0 +1,46 @@
+
+
+#header-nav {
+  background-color: #DEB887;
+
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0rem;
+    padding-bottom: 0.5rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+  h1 {
+    font-size: 50px;
+    color: blue;
+    font-family: cursive;
+    }
+  h4 {
+    font-family: sans-serif;
+    padding-top: 2vw;
+    padding-bottom: 4vw;
+  }
+  h5 {
+    text-align: center;
+  }
+  #Chicken-tile {
+    background-color: #8FBC8F;
+    width: 100%;
+  }
+  #Beef-tile {
+    background-color: lightpink;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #Sushi-tile {
+    background-color: blanchedalmond;
+    width: 100%;  
+  } 
